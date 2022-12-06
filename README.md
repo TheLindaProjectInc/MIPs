@@ -1,5 +1,5 @@
 # Metrix Improvement Proposals
-People wishing to submit MIPs, first should propose their idea or document in [GitHub Discussions](/). After discussion, please open a PR. After copy-editing and acceptance, it will be published here.
+People wishing to submit MIPs, first should propose their idea or document in [GitHub Discussions](https://github.com/TheLindaProjectInc/MIPs/discussions). After discussion, please open a PR. After copy-editing and acceptance, it will be published here.
 
 Having a MIP here does not make it a formally accepted standard until its status becomes Final or Active.
 

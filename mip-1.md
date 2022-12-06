@@ -5,7 +5,8 @@ Number:  MIP-1
 Title:   Mismatched AAL Bug?
 Type:    Standard
 Status:  Final
-Authors: nibbles
+Authors: nibbles <keith@metrixcoin.com>
+         seqSEE <sarah@sqdmc.net>
          squidicuz
 Created: 2022-12-06
 ```
