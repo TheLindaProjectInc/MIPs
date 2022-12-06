@@ -5,9 +5,9 @@ Having a MIP here does not make it a formally accepted standard until its status
 
 Those proposing changes should consider that ultimately consent may rest with the consensus of the MetrixCoin users.
 
-| MIP                    | Layer                 | Title                                                                          | Owner                                  | Type          | Status   |
+| MIP Number             | Layer                 | Title                                                                          | Owner                                  | Type          | Status   |
 | :--------------------: | --------------------- | ------------------------------------------------------------------------------ | -------------------------------------- | ------------- | -------- |
-| [MIP0](/mip-0.md)      |                       | MIP Template                                                                   | SeqSEE                                 | Informational | Accepted |
-| [MIP1](/mip-1.md)      | Consensus (soft fork) | Chain Path Correction                                                          | nibbles, SeqSEE, squidicuz             | Standard      | Final    |
-| [MIP2](/mip-2.md)      | Consensus (soft fork) | Goverance Subsidy Correction                                                   | nibbles, SeqSEE, squidicuz             | Standard      | Final    |
-| [MIP3](/mip-3.md)      | Consensus (soft fork) | DGP Version 2                                                                  | nibbles, SeqSEE, squidicuz             | Standard      | Final    |
+| [0](/mip-0.md)      |                       | MIP Template                                                                   | SeqSEE                                 | Informational | Accepted |
+| [1](/mip-1.md)      | Consensus (soft fork) | Chain Path Correction                                                          | nibbles, SeqSEE, squidicuz             | Standard      | Final    |
+| [2](/mip-2.md)      | Consensus (soft fork) | Goverance Subsidy Correction                                                   | nibbles, SeqSEE, squidicuz             | Standard      | Final    |
+| [3](/mip-3.md)      | Consensus (soft fork) | DGP Version 2                                                                  | nibbles, SeqSEE, squidicuz             | Standard      | Final    |
