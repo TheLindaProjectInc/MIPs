@@ -7,7 +7,7 @@ Type:    Standard
 Status:  Final
 Authors: nibbles <keith@metrixcoin.com>
          seqSEE <sarah@sqdmc.net>
-         squidicuz
+         squidicuz <squid@sqdmc.net>
 Created: 2022-12-06
 ```
 
