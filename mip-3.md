@@ -5,7 +5,7 @@ Number:  MIP-3
 Title:   DGP Version 2
 Type:    Standard
 Status:  Final
-Authors: nibbles
+Authors: nibbles <keith@metrixcoin.com>
          seqSEE <sarah@sqdmc.net>
          squidicuz
 Created: 2022-12-06
