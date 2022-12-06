@@ -8,6 +8,6 @@ Those proposing changes should consider that ultimately consent may rest with th
 |  Number  | Layer                      | Title                       | Owner       | Type         | Status |
 | -------- |          -------           |           -------           |   -------   |    ------    |  --------   |
 |    [0](/mip-0.md)     |                            |   MIP Template              |   SeqSEE    |   Informational    |    Accepted   |
-|    [1](/mip-1.md)     |   Consensus (hard fork)    |   Mismatched AAL Bug?        |   squid     |   Standard   |    Final    |
-|    [2](/mip-2.md)     |   Consensus (hard fork)    |   Goverance Subsidy Bug?     |   squid     |   Standard   |    Final    |
-|    [3](/mip-3.md)     |   Consensus (hard fork)    |    DGP Version 2            |   SeqSEE    |   Standard   |    Final    |
+|    [1](/mip-1.md)     |   Consensus (hard fork)    |   Mismatched AAL Bug?        |   nibbles, SeqSEE, squid     |   Standard   |    Final    |
+|    [2](/mip-2.md)     |   Consensus (hard fork)    |   Goverance Subsidy Bug?     |   nibbles, SeqSEE, squid     |   Standard   |    Final    |
+|    [3](/mip-3.md)     |   Consensus (hard fork)    |    DGP Version 2            |   nibbles, SeqSEE, squid    |   Standard   |    Final    |
