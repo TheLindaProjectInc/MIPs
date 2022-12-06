@@ -8,6 +8,6 @@ Those proposing changes should consider that ultimately consent may rest with th
 | MIP                    | Layer                 | Title                                                                          | Owner                                  | Type          | Status   |
 | :--------------------: | --------------------- | ------------------------------------------------------------------------------ | -------------------------------------- | ------------- | -------- |
 | [MIP0](/mip-0.md)      |                       | MIP Template                                                                   | SeqSEE                                 | Informational | Accepted |
-| [MIP1](/mip-1.md)      | Consensus (soft fork) | Chain Path Correction                                                          | nibbles, SeqSEE, squid                 | Standard      | Final    |
-| [MIP2](/mip-2.md)      | Consensus (soft fork) | Goverance Subsidy Correction                                                   | nibbles, SeqSEE, squid                 | Standard      | Final    |
-| [MIP3](/mip-3.md)      | Consensus (soft fork) | DGP Version 2                                                                  | nibbles, SeqSEE, squid                 | Standard      | Final    |
+| [MIP1](/mip-1.md)      | Consensus (soft fork) | Chain Path Correction                                                          | nibbles, SeqSEE, squidicuz             | Standard      | Final    |
+| [MIP2](/mip-2.md)      | Consensus (soft fork) | Goverance Subsidy Correction                                                   | nibbles, SeqSEE, squidicuz             | Standard      | Final    |
+| [MIP3](/mip-3.md)      | Consensus (soft fork) | DGP Version 2                                                                  | nibbles, SeqSEE, squidicuz             | Standard      | Final    |
