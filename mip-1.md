@@ -1,8 +1,8 @@
-# MIP-1 : Mismatched AAL Bug?
+# MIP-1 : Chain Path Correction
 
 ```
 Number:  MIP-1
-Title:   Mismatched AAL Bug?
+Title:   Chain Path Correction
 Type:    Standard
 Status:  Final
 Authors: nibbles <keith@metrixcoin.com>
