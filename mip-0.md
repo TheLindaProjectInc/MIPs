@@ -24,5 +24,5 @@ and the section can be split into multiple sections and subsections.
 
 ## References
 
-This is a section for references such as links to other documents (BIP, QIP or MIP)
+This is a section for references such as links to other documents (MIP, BIP, EIP or QIP)
 or to reference implementations.
