@@ -36,7 +36,7 @@ Failing to send a subsidy reward would irrecoverably leave the Governance contra
 Failing to send a return of a governor's collateral would irrecoverably leave the Governance contract in an error state. In the case that a governor's collateral return is rejected, it is sent to the Budget to be potentially recovered through a budget proposal.
 
 ### Fallback for failed budget settlement
-Failing to send a budget settlement would irrecoverably leave the Budget contract in an error state. In the case that a governor rejects a subsidy reward it is burned by sending it to the 0x0 address.
+Failing to send a budget settlement would irrecoverably leave the Budget contract in an error state. In the case that a budget settlement fails, it is burned by sending it to the 0x0 address.
 
 ### Minimum and maximum values for chain parameters and fallbacks for when they are out of bounds
 Setting the EVM gas schedule, block size, minimum gas price, block gas limit, transaction fee rates, governor collateral and budget fees to certain values could halt the chain and/or render the DGP contracts irrecoverably in an error state. Because external contract calls are made by the DGP contract, a check needs to be done both at the time of the propsal and also every time the value is retrieved from the external contract. 
