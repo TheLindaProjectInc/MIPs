@@ -22,7 +22,7 @@ DGP Version 2 (DGPv2) was found to have a bug in the governance winner selection
 ## Issues solved in DGPv3
 
 ### Check if governor is mature before presenting them as the winner
-If an immature governor is selected as the winner, it becomes stuck in the front of the queue. This check can be done by using the `isValidWinner` function to do the missed checks.
+If an immature governor is selected as the winner, it becomes stuck in the front of the queue. This check can be done by adding a check `block.number - 1920 >= governors[governorAddresses[i]].blockHeight` in the `currentWinner` function.
 
 ## References
-[DGPv3](https://github.com/TheLindaProjectInc/metrix-dgp/blob/dgpv3/contracts/Governance.sol#L301-L309)
+[DGPv3](https://github.com/TheLindaProjectInc/metrix-dgp/blob/dgpv3/contracts/Governance.sol#L308-L309)
