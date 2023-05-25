@@ -1,8 +1,8 @@
-# MIP-4 : MIP Upgrade Activation Time
+# MIP-4 : BIP9 Upgrade Activation Time 
 
 ```
 Number:  MIP-4
-Title:   MIP Upgrade Activation Time
+Title:   BIP9 Upgrade Activation Time 
 Type:    Standard
 Status:  Draft
 Authors: nibbles <keith@metrixcoin.com>
