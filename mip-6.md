@@ -1,8 +1,8 @@
-# MIP-6 : DGP Version 3
+# MIP-6 : Governance Subsidy Winner Correction
 
 ```
 Number:  MIP-6
-Title:   DGP Version 3
+Title:   Governance Subsidy Winner Correction
 Type:    Standard
 Status:  Draft
 Authors: nibbles <keith@metrixcoin.com>
