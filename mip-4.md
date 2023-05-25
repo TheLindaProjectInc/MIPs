@@ -17,7 +17,7 @@ This MIP corrects the BIP9 activation time to be `~1 week` rather than `~2 days`
 
 ## Motivation
 
-BIP9 is a Bitcoin standard and takes ~1 week to activate. On Metrix the same amount of blocks required to activate a BIP9 proposal is ~2 days. The difference in blocktime between Bitcoin and Metrix was not considered when this was implemented, so it should be corrected. 
+BIP9 is a Bitcoin standard and takes ~2 weeks to activate. On Metrix the same amount of blocks required to activate a BIP9 proposal is ~2 days. The difference in blocktime between Bitcoin and Metrix was not considered when this was implemented, so it should be corrected. 
 
 This will ensure that future BIP9 activations happen in the expected amount of time which is more reasonable for holders and miners. 
 
