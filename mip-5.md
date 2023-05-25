@@ -13,7 +13,7 @@ Created: 2023-05-25
 
 ## Abstract
 
-This MIP is a proposal to redefine the Budget, DGP and Governance contracts which process block rewards as well as provide and control the EVM gas schedule, block size, minimum gas price, block gas limit, transaction fee rates, governor collateral and budget fees. 
+This MIP is a proposal to redefine the Governance contract and to redeploy the Budget, DGP and Governance contracts which process block rewards as well as provide and control the EVM gas schedule, block size, minimum gas price, block gas limit, transaction fee rates, governor collateral and budget fees. 
 
 ## Motivation
 
