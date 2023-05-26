@@ -21,4 +21,5 @@ Previous versions of the Governance contract have had issues with selecting a cu
 
 ## References
 [MIPs Discussions](https://github.com/TheLindaProjectInc/MIPs/discussions/2)
+
 [DGPv3](https://github.com/TheLindaProjectInc/metrix-dgp/blob/dgpv3/contracts/Governance.sol#L308-L309)
