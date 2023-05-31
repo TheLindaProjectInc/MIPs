@@ -17,7 +17,7 @@ This MIP is a proposal to redefine the Governance contract and to redeploy the B
 
 ## Motivation
 
-DGP Version 2 (DGPv2) was found to have a bug in the governance winner selection process. When new governors enroll towards the end of the rewards cycle (48 hours) the issue causes a high risk for competing forks, EVM transactions to be delayed significantly and the mempool to fill up.
+DGP Version 2 (DGPv2) was found to have a bug in the governance winner selection process. When new governors enroll towards the end of the rewards cycle (48 hours) the issue causes a high risk for competing forks, orphaned governor rewards, EVM transactions to be delayed significantly and the mempool to fill up.
 
 ## Issues solved in DGPv3
 
