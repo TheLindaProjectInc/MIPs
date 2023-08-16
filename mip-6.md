@@ -4,7 +4,7 @@
 Number:  MIP-6
 Title:   Governance Subsidy Winner Correction
 Type:    Standard
-Status:  Draft
+Status:  Final
 Authors: nibbles <keith@metrixcoin.com>
          seqSEE <sarah@sqdmc.net>
          squidicuz <squid@sqdmc.net>
