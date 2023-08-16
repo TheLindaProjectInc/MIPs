@@ -4,7 +4,7 @@
 Number:  MIP-5
 Title:   DGP Version 3
 Type:    Standard
-Status:  Draft
+Status:  Final
 Authors: nibbles <keith@metrixcoin.com>
          seqSEE <sarah@sqdmc.net>
          squidicuz <squid@sqdmc.net>
