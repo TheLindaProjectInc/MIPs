@@ -23,3 +23,8 @@ Previous versions of the Governance contract have had issues with selecting a cu
 [MIPs Discussions](https://github.com/TheLindaProjectInc/MIPs/discussions/2)
 
 [DGPv3](https://github.com/TheLindaProjectInc/metrix-dgp/blob/dgpv3/contracts/Governance.sol#L308-L309)
+
+#### Metrix Core
+ - [Legacy code disable 1](https://github.com/TheLindaProjectInc/Metrix/blob/1612283b7f808b76207cd7a9896694fce396f1b5/src/qtum/qtumDGP.cpp#L245)
+ - [Legacy code disable 2](https://github.com/TheLindaProjectInc/Metrix/blob/1612283b7f808b76207cd7a9896694fce396f1b5/src/qtum/qtumDGP.cpp#L290)
+ - [New winner lookup](https://github.com/TheLindaProjectInc/Metrix/blob/1612283b7f808b76207cd7a9896694fce396f1b5/src/qtum/qtumDGP.cpp#L375)
