@@ -4,7 +4,7 @@
 Number:  MIP-4
 Title:   BIP9 Upgrade Activation Time 
 Type:    Standard
-Status:  Draft
+Status:  Final
 Authors: nibbles <keith@metrixcoin.com>
          seqSEE <sarah@sqdmc.net>
          squidicuz <squid@sqdmc.net>
