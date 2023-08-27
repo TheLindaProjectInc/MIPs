@@ -23,3 +23,9 @@ Previous versions of the Governance contract have had issues with selecting a cu
 [MIPs Discussions](https://github.com/TheLindaProjectInc/MIPs/discussions/8)
 
 [DGPv3](https://github.com/TheLindaProjectInc/metrix-dgp/blob/dgpv3/contracts/Governance.sol#L308-L309)
+
+[Legacy code disable - remove old checks for govs maturity](https://github.com/TheLindaProjectInc/Metrix/blob/1612283b7f808b76207cd7a9896694fce396f1b5/src/qtum/qtumDGP.cpp#L245)
+
+[Legacy code disable - remove old checks for govs reward Eligibily](https://github.com/TheLindaProjectInc/Metrix/blob/1612283b7f808b76207cd7a9896694fce396f1b5/src/qtum/qtumDGP.cpp#L290)
+
+[Use default DGP winner lookup from contract](https://github.com/TheLindaProjectInc/Metrix/blob/1612283b7f808b76207cd7a9896694fce396f1b5/src/qtum/qtumDGP.cpp#L375)
