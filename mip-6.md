@@ -20,6 +20,6 @@ This MIP is a proposal to remove legacy code in MetrixCore used to process gover
 Previous versions of the Governance contract have had issues with selecting a current valid subsidy winner. With the upgrades to DGPv3, legacy code put in place to choose the governance subsidy winner could be removed, allowing less resources to be used by the nodes. Additionally this will allow less risk to forks due nodes choosing different governance winners.
 
 ## References
-[MIPs Discussions]([https://github.com/TheLindaProjectInc/MIPs/discussions/8)
+[MIPs Discussions](https://github.com/TheLindaProjectInc/MIPs/discussions/8)
 
 [DGPv3](https://github.com/TheLindaProjectInc/metrix-dgp/blob/dgpv3/contracts/Governance.sol#L308-L309)
