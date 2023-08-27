@@ -26,3 +26,4 @@ If an immature governor is selected as the winner, it becomes stuck in the front
 
 ## References
 [DGPv3](https://github.com/TheLindaProjectInc/metrix-dgp/blob/dgpv3/contracts/Governance.sol#L308-L309)
+[MIP5 Discussion](https://github.com/TheLindaProjectInc/MIPs/discussions/2)
