@@ -33,3 +33,4 @@ Currently `nMinerConfirmationWindow` which is a number of blocks is set to `2016
 
 [Bitcoin Core](https://github.com/bitcoin/bitcoin/blob/25202cace9140870c75cb3a811e10045df88c226/src/kernel/chainparams.cpp#L93-L94)
 
+[MIPs Discussion](https://github.com/TheLindaProjectInc/MIPs/discussions/5)
